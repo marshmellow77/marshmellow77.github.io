@@ -1,6 +1,6 @@
 ---
 title: "First real post"
-date: 2023-07-28T14:05:00-02:00
+date: 2023-07-28T14:05:00+02:00
 categories:
   - blog
 tags:
