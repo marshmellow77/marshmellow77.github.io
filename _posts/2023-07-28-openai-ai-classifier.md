@@ -1,5 +1,5 @@
 ---
-title: "First real post"
+title: "OpenAI scraps AI classifier"
 date: 2023-07-28T14:05:00+02:00
 categories:
   - blog
