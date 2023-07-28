@@ -17,4 +17,4 @@ Now Stefano Maffulli, the executive director for the Open Source Initiative, has
 > Meta’s license for the LLaMa models and code does not meet this standard; specifically, it puts restrictions on commercial use for
 > some users (paragraph 2) and also restricts the use of the model and software for certain purposes (the Acceptable Use Policy).
 
-[Link to the article at The Verge](https://www.theverge.com/2023/7/26/23809364/meta-keeps-calling-its-new-ai-model-open-source-when-its-not)
+[Link to the Stefano's post](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
