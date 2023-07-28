@@ -9,7 +9,7 @@ tags:
   - LLM
 ---
 
-Whether Meta's new Large Language Model (LLM) called Llama 2 is open source or not has been a debate since it was released on 18 July 2023.
+Whether Meta's new Large Language Model (LLM) called [Llama 2](https://www.theverge.com/2023/7/18/23799025/meta-ai-llama-2-open-source-microsoft) is open source or not has been a debate since it was released on 18 July 2023.
 Now Stefano Maffulli, the executive director for the Open Source Initiative, has commented on it:
 
 > ‘Open Source’ means software under a license with specific characteristics, defined by the [Open Source Definition](https://opensource.org/osd/) (OSD).
