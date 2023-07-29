@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Heiko Hotz"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "AI Geek. NLP Nerd. Solutions Architect."
+  bio    : "AI Geek. NLP Nerd. Solutions Architect. Opinions are my own."
   links:
     - label: "Medium"
       icon: "fab fa-medium-m"
