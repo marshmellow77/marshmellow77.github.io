@@ -1,5 +1,5 @@
 ---
-title: "Stable Diffusion Model Amplifies Stereotypes About Race and Gender"
+title: "Generative AI Models Amplify Stereotypes About Race and Gender"
 date: 2023-07-29T18:40:00+02:00
 categories:
   - blog
