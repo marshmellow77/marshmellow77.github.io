@@ -5,8 +5,8 @@ categories:
   - blog
 tags:
   - AI
-  - Transformers
-  - iOS
+  - Deepfakes
+  - Audio
 ---
 🔗 [Link to article](https://www.theguardian.com/technology/2023/aug/02/humans-can-detect-deepfake-speech-only-73-of-the-time-study-finds)
 
