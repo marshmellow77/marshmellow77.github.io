@@ -12,8 +12,10 @@ tags:
 
 Madhumita Murgia & Patrick McGee for the Financial Times:
 
+> Multiple teams at Apple, such as the Machine Intelligence, Neural Design (MIND) group, are recruiting researchers and engineers for jobs ranging from fundamental research on LLMs in its Paris lab, to compressing existing language models so they can run efficiently on mobile devices, rather than in the cloud.
+>
 > While rivals such as Microsoft-backed OpenAI and Google have been quicker to release generative AI products such as chatbots and productivity assistants, Apple’s job ads indicate the company is expanding efforts to bring cutting-edge technologies like LLMs specifically to mobile.
-
+>
 > This remains a huge technical challenge not yet solved by Apple’s competitors, but will be vital to the iPhone-maker’s core businesses in device sales and associated services.
 
 Just three day ago [I wrote about how one of the most exciting features of the upcoming iOS 17 is the new Autocomplete](https://naughtyneural.net/blog/ios17-autocomplete/), not only for the enhanced user experience, but also because it shows that Apple is seriously thinking about how they can deliver (Generative) AI on their mobile devices.
