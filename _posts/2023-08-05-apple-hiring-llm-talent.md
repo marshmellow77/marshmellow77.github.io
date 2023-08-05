@@ -16,6 +16,6 @@ Madhumita Murgia & Patrick McGee for the Financial Times:
 
 > This remains a huge technical challenge not yet solved by Apple’s competitors, but will be vital to the iPhone-maker’s core businesses in device sales and associated services.
 
-Just three day ago [I wrote about how one of the most exciting features of the upcoming iOS 17 is the new Autocomplete](2023-08-02-ios17-autocomplete.md), not only for the enhanced user experience, but also because it shows that Apple is seriously thinking about how they can deliver (Generative) AI on their mobile devices.
+Just three day ago [I wrote about how one of the most exciting features of the upcoming iOS 17 is the new Autocomplete](https://naughtyneural.net/blog/ios17-autocomplete/), not only for the enhanced user experience, but also because it shows that Apple is seriously thinking about how they can deliver (Generative) AI on their mobile devices.
 
 This article confirms Apple's ambitions in this space - dozens of new generative AI roles across multiple offices underscores a company-wide, concerted effort. This isn't a small research project - it's a priority for Apple. The breadth of positions, from fundamental research to compression engineering, demonstrates a meticulous approach.
